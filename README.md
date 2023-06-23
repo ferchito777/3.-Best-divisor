@@ -16,12 +16,14 @@ Formato de salida
 
 Imprime un entero que denote el mejor divisor de n.
 
-Entrada de muestra 0
-
+Entrada de muestra 
+0
 12
-Salida de muestra 0
-
+Salida de muestra 
+0
 6
+
+
 Explicación 0
 
 El conjunto de divisores de 12 se puede expresar como {1,2,3,4,6,12}. El divisor cuyos dígitos suman el número mayor es 6 (que, al tener un solo dígito, se suma a sí mismo). Por lo tanto, imprimimos 6 como nuestra respuesta.
