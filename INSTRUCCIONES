@@ -1,0 +1,8 @@
+1.	Abre Dev-C++ en tu computadora.
+2.	Crea un nuevo proyecto o archivo fuente haciendo clic en "Archivo" en la barra de menú y seleccionando "Nuevo" y luego "Proyecto" o "Archivo fuente". Si ya tienes un proyecto existente, puedes omitir este paso y abrir el archivo existente.
+3.	Copia el código proporcionado en la ventana de edición del proyecto o archivo fuente.
+4.	Guarda el archivo con una extensión de archivo ".c" (por ejemplo, "programa.c").
+5.	Haz clic en el menú "Ejecutar" y selecciona "Compilar y ejecutar" o presiona F11 para compilar y ejecutar el programa. Asegúrate de que el proyecto o archivo fuente esté seleccionado en el panel del proyecto.
+6.	El programa te solicitará ingresar un número.
+7.	Ingresa un número entero y presiona Enter.
+8.	El programa calculará y mostrará el mejor número encontrado en la ventana de salida de Dev-C++.
